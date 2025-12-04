@@ -28,5 +28,4 @@ This project analyzes airline ticket pricing in India to understand the factors 
 
 To understand and visualize how different factors shape airline ticket prices in India and help users make data-driven decisions.
 
--
 
